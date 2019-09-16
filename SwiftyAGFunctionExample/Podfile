@@ -1,0 +1,56 @@
+# Uncomment the next line to define a global platform for your project
+ platform :ios, '10.0'
+
+target 'SwiftyAGFunctionExample' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+  pod 'CircleProgressView'
+  pod 'SwiftEntryKit'
+  pod 'SwiftyStoreKit'
+  pod 'SwiftDate'
+  pod 'XHLaunchAd'
+  pod 'JXSegmentedView'
+  pod 'FSPagerView'
+  pod 'Segmentio'
+  pod 'IQKeyboardManagerSwift'
+  pod 'SnapKit'
+  pod 'Reusable'
+  pod 'DynamicColor'
+  pod 'Kingfisher'
+  pod 'RxSwift'
+  pod 'RxCocoa'
+  pod 'YPImagePicker'
+  pod 'TZImagePickerController'
+  pod 'EmptyDataSet-Swift'
+  pod 'AliyunOSSiOS'
+  pod 'RxAlamofire'
+  pod 'ObjectMapper'
+  pod 'MJRefresh'
+  pod 'ActiveLabel'
+  pod 'PKHUD'
+  pod 'SwiftMessages'
+  pod 'WebViewJavascriptBridge', '~> 6.0'
+  pod 'SJFullscreenPopGesture'
+  pod 'KMPlaceholderTextView'
+  pod 'PagingKit'
+  pod 'TTGTagCollectionView'
+  pod 'UMCCommon'
+  pod 'UMCSecurityPlugins'
+  pod 'UMCCommonLog'
+  pod 'UMCAnalytics'
+  pod 'UMCErrorCatch'
+  pod 'UMCPush'
+  # U-Share SDK UI模块（分享面板，建议添加）
+  pod 'UMCShare/UI'
+  # 集成微信(完整版14.4M)
+  pod 'UMCShare/Social/WeChat'
+  # 集成QQ/QZone/TIM(完整版7.6M)
+  pod 'UMCShare/Social/QQ'
+  # 集成新浪微博(完整版25.3M)
+  pod 'UMCShare/Social/Sina'
+  pod 'CryptoSwift'
+  pod 'FlagKit'
+
+  # Pods for SwiftyAGFunctionExample
+
+end

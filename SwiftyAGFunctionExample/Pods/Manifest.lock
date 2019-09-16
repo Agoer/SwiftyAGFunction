@@ -1,0 +1,236 @@
+PODS:
+  - ActiveLabel (1.1.0)
+  - Alamofire (4.8.2)
+  - AliyunOSSiOS (2.10.7)
+  - CircleProgressView (1.2.0)
+  - CryptoSwift (1.0.0)
+  - DynamicColor (4.1.0)
+  - EmptyDataSet-Swift (4.2.0)
+  - FlagKit (2.2)
+  - FLAnimatedImage (1.0.12)
+  - FSPagerView (0.8.3)
+  - IQKeyboardManagerSwift (6.4.1)
+  - JXSegmentedView (0.0.19)
+  - Kingfisher (5.7.1)
+  - KMPlaceholderTextView (1.4.0)
+  - MJRefresh (3.2.0)
+  - ObjectMapper (3.5.1)
+  - PagingKit (1.10.0)
+  - PKHUD (5.3.0)
+  - PryntTrimmerView (3.0.0)
+  - QuickLayout (3.0.0)
+  - Reusable (4.1.0):
+    - Reusable/Storyboard (= 4.1.0)
+    - Reusable/View (= 4.1.0)
+  - Reusable/Storyboard (4.1.0)
+  - Reusable/View (4.1.0)
+  - RxAlamofire (5.0.0):
+    - RxAlamofire/Core (= 5.0.0)
+  - RxAlamofire/Core (5.0.0):
+    - Alamofire (~> 4.8)
+    - RxSwift (~> 5.0)
+  - RxCocoa (5.0.0):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.0.0):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.0)
+  - Segmentio (4.1)
+  - SJFullscreenPopGesture (1.5.1):
+    - SJFullscreenPopGesture/ObjC (= 1.5.1)
+  - SJFullscreenPopGesture/ObjC (1.5.1)
+  - SnapKit (5.0.1)
+  - SteviaLayout (4.4.4)
+  - SwiftDate (6.0.3)
+  - SwiftEntryKit (1.1.3):
+    - QuickLayout (= 3.0.0)
+  - SwiftMessages (7.0.0):
+    - SwiftMessages/App (= 7.0.0)
+  - SwiftMessages/App (7.0.0)
+  - SwiftyStoreKit (0.15.0)
+  - TTGTagCollectionView (1.11.1)
+  - TZImagePickerController (3.2.2)
+  - UMCAnalytics (6.0.5):
+    - UMCCommon
+  - UMCCommon (2.1.1)
+  - UMCCommonLog (1.0.0)
+  - UMCErrorCatch (1.0.0):
+    - UMCCommon
+  - UMCPush (3.2.4):
+    - UMCCommon
+  - UMCSecurityPlugins (1.0.6)
+  - UMCShare/Core (6.9.6):
+    - UMCCommon
+  - UMCShare/Social/QQ (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+    - UMCShare/Social/ReducedQQ
+  - UMCShare/Social/ReducedQQ (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/ReducedSina (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/ReducedWeChat (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/Sina (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+    - UMCShare/Social/ReducedSina
+  - UMCShare/Social/WeChat (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+    - UMCShare/Social/ReducedWeChat
+  - UMCShare/UI (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - WebViewJavascriptBridge (6.0.3)
+  - XHLaunchAd (3.9.8):
+    - FLAnimatedImage (~> 1.0.12)
+  - YPImagePicker (4.0.0):
+    - PryntTrimmerView (~> 3.0.0)
+    - SteviaLayout (~> 4.4.1)
+
+DEPENDENCIES:
+  - ActiveLabel
+  - AliyunOSSiOS
+  - CircleProgressView
+  - CryptoSwift
+  - DynamicColor
+  - EmptyDataSet-Swift
+  - FlagKit
+  - FSPagerView
+  - IQKeyboardManagerSwift
+  - JXSegmentedView
+  - Kingfisher
+  - KMPlaceholderTextView
+  - MJRefresh
+  - ObjectMapper
+  - PagingKit
+  - PKHUD
+  - Reusable
+  - RxAlamofire
+  - RxCocoa
+  - RxSwift
+  - Segmentio
+  - SJFullscreenPopGesture
+  - SnapKit
+  - SwiftDate
+  - SwiftEntryKit
+  - SwiftMessages
+  - SwiftyStoreKit
+  - TTGTagCollectionView
+  - TZImagePickerController
+  - UMCAnalytics
+  - UMCCommon
+  - UMCCommonLog
+  - UMCErrorCatch
+  - UMCPush
+  - UMCSecurityPlugins
+  - UMCShare/Social/QQ
+  - UMCShare/Social/Sina
+  - UMCShare/Social/WeChat
+  - UMCShare/UI
+  - WebViewJavascriptBridge (~> 6.0)
+  - XHLaunchAd
+  - YPImagePicker
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ActiveLabel
+    - Alamofire
+    - AliyunOSSiOS
+    - CircleProgressView
+    - CryptoSwift
+    - DynamicColor
+    - EmptyDataSet-Swift
+    - FlagKit
+    - FLAnimatedImage
+    - FSPagerView
+    - IQKeyboardManagerSwift
+    - JXSegmentedView
+    - Kingfisher
+    - KMPlaceholderTextView
+    - MJRefresh
+    - ObjectMapper
+    - PagingKit
+    - PKHUD
+    - PryntTrimmerView
+    - QuickLayout
+    - Reusable
+    - RxAlamofire
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - Segmentio
+    - SJFullscreenPopGesture
+    - SnapKit
+    - SteviaLayout
+    - SwiftDate
+    - SwiftEntryKit
+    - SwiftMessages
+    - SwiftyStoreKit
+    - TTGTagCollectionView
+    - TZImagePickerController
+    - UMCAnalytics
+    - UMCCommon
+    - UMCCommonLog
+    - UMCErrorCatch
+    - UMCPush
+    - UMCSecurityPlugins
+    - UMCShare
+    - WebViewJavascriptBridge
+    - XHLaunchAd
+    - YPImagePicker
+
+SPEC CHECKSUMS:
+  ActiveLabel: 5e3f4de79a1952d4604b845a0610d4776e4b82b3
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AliyunOSSiOS: 602b6a4e70e62a5f0a6431c20496343141d7e66f
+  CircleProgressView: 6b5b091d59dc5e5d2fda84e637a40498cdc39937
+  CryptoSwift: d81eeaa59dc5a8d03720fe919a6fd07b51f7439f
+  DynamicColor: e72fcf4174518c514e862bb4bdea794c1865b412
+  EmptyDataSet-Swift: 1fa0b35f530a35f852ecb2b53564728b0c300aaf
+  FlagKit: eca7dc89064b0c986302ba9acefad1bf80a435b1
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  FSPagerView: 670405b2f18e2a87fa37f20b00de783e562c25a8
+  IQKeyboardManagerSwift: d2df660d0b8d64a15cb2537c9ff303213fa515b2
+  JXSegmentedView: 6e22381bd1e6f0767fc078bef1947b13b2d337a1
+  Kingfisher: 176d377ad339113c99ad4980cbae687f807e20fe
+  KMPlaceholderTextView: 2206c3df39979e9396e2d96fa9f427a8951121b0
+  MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  PagingKit: 05ff12fc68f9f7ca10d75a7acdcc6c362c7f4fe3
+  PKHUD: 98f3e4bc904b9c916f1c5bb6d765365b5357291b
+  PryntTrimmerView: 53ac64053c7ce63cb3e27f54090f52da0734891d
+  QuickLayout: 07b45a72b10083fee3f095990cfed1c1e7b27f0a
+  Reusable: 82be188f29d96dc5eff0db7b2393bcc08d2cdd5b
+  RxAlamofire: e7875a012aff55345672d0f70a2a9cd6aeb0f211
+  RxCocoa: fcf32050ac00d801f34a7f71d5e8e7f23026dcd8
+  RxRelay: 4f7409406a51a55cd88483f21ed898c234d60f18
+  RxSwift: 8b0671caa829a763bbce7271095859121cbd895f
+  Segmentio: ab29def64e1bff6e6e9b97671788a99bed3f1d9f
+  SJFullscreenPopGesture: 15751a2258e4e087cc1fd07bb76195066ba64710
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SteviaLayout: 523469269059f2c6da02820bb2ff28a5fe0780aa
+  SwiftDate: 8d4f14bf1ef68e95094511504856547bf9e3e1a6
+  SwiftEntryKit: be00509cf6e1e88b57bb96cf2114b09cf20ee84a
+  SwiftMessages: a952f7a9103d9aeab93730a2861d2d8fcdd8758f
+  SwiftyStoreKit: 033d06b6f87955405d3f844a18a7687c2438592a
+  TTGTagCollectionView: 86fcbfa6a7493c9e860b01c2e693cffc8acf6de1
+  TZImagePickerController: 44aa49cf35b1e88fe292be955e15b9003a5b1d83
+  UMCAnalytics: 045be2cd1ec05aa95ad62405a850757f932e2d59
+  UMCCommon: 971f324a5a99c9d662ae040a815e7e3d7ef8b2a8
+  UMCCommonLog: 05a2d5de21858e3d870551562cff405c1366d244
+  UMCErrorCatch: 51f1b68f920233e90a3fa6d51f0456174507ec78
+  UMCPush: 1edd856027dcf905333effb4040ace5d236a7316
+  UMCSecurityPlugins: 0831a08f3988f3cea9f1d3a7626cd9bee4fef150
+  UMCShare: e0cef55c0fd6051254c8cda1d0630eb578b27bad
+  WebViewJavascriptBridge: 7f5bc4d3581e672e8f32bd0f812d54bc69bb8e29
+  XHLaunchAd: 45048592af01aa501c9d2d0c45e95ca74c4d0596
+  YPImagePicker: 8039f89ad79281545fa868486f32d9bf5d65ede1
+
+PODFILE CHECKSUM: e5dec54cb967f28fe904a2f3ef115e89896474a8
+
+COCOAPODS: 1.6.0.beta.1
