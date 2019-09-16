@@ -70,6 +70,7 @@
 		91A1AC54232F7F71002FC060 /* SwiftyAGFunctionExample */ = {
 			isa = PBXGroup;
 			children = (
+				91A1AC68232F80D2002FC060 /* SwiftyAGFunction */,
 				91A1AC55232F7F71002FC060 /* AppDelegate.swift */,
 				91A1AC57232F7F71002FC060 /* ViewController.swift */,
 				91A1AC59232F7F71002FC060 /* Main.storyboard */,
@@ -78,6 +79,54 @@
 				91A1AC61232F7F73002FC060 /* Info.plist */,
 			);
 			path = SwiftyAGFunctionExample;
+			sourceTree = "<group>";
+		};
+		91A1AC68232F80D2002FC060 /* SwiftyAGFunction */ = {
+			isa = PBXGroup;
+			children = (
+				91A1AC6E232F817E002FC060 /* BaseController */,
+				91A1AC6D232F8177002FC060 /* BaseView */,
+				91A1AC6C232F816D002FC060 /* Category */,
+				91A1AC6B232F8167002FC060 /* Define */,
+				91A1AC6A232F8145002FC060 /* Alamofire */,
+			);
+			name = SwiftyAGFunction;
+			path = ../../SwiftyAGFunction;
+			sourceTree = "<group>";
+		};
+		91A1AC6A232F8145002FC060 /* Alamofire */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Alamofire;
+			sourceTree = "<group>";
+		};
+		91A1AC6B232F8167002FC060 /* Define */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Define;
+			sourceTree = "<group>";
+		};
+		91A1AC6C232F816D002FC060 /* Category */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Category;
+			sourceTree = "<group>";
+		};
+		91A1AC6D232F8177002FC060 /* BaseView */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = BaseView;
+			sourceTree = "<group>";
+		};
+		91A1AC6E232F817E002FC060 /* BaseController */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = BaseController;
 			sourceTree = "<group>";
 		};
 		AFB2BFD281601CB1AB7E8BE6 /* Frameworks */ = {
